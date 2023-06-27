@@ -1,0 +1,31 @@
+{
+  "name": "insurance-online-test",
+  "version": "0.0.1",
+  "description": "«В файле представлена реализация нескольких классов и метода, который с ними работает. Специально были допущены синтаксические ошибки, ошибки в кодстайле, а так же ошибки в реализации с точки зрения принципов ООП и здравого смысла. Нужно отрефакторить код, исправив как можно больше ошибок. Никаких ограничений нет. Делать можно что и как угодно. Главное при этом самому не добавлять новых ошибок.\"",
+  "main": "index.js",
+  "author": {
+		"name": "Denis Gutsuliak",
+		"email": "d.99113@gmail.com",
+		"url": "https://t.me/d9911/"
+	},
+	"contributors": [
+		{
+			"name": "Denis Gutsuliak",
+			"email": "d.99113@gmail.com",
+			"url": "https://t.me/d9911/"
+		}
+	],
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis991/insurance-online-test.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denis991/insurance-online-test/issues"
+  },
+  "homepage": "https://github.com/denis991/insurance-online-test#readme"
+}
